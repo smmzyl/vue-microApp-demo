@@ -1,2 +1,2 @@
-# vue-mircoApp-demo
-vue-mircoApp-demo
+# vue-microApp-demo
+vue-microApp-demo
